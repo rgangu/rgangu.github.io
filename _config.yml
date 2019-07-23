@@ -116,18 +116,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:rbg5181@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://rgangu.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/rokugang"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      #url: "https://facebook.com/rokugang"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/rgangu"
+      url: "https://github.com/rgangu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/rokugang"
@@ -137,13 +131,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/rokugang"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/rgangu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url:"https://instagram.com/rokugang"
 
 
 # Reading Files
