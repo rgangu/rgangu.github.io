@@ -2,6 +2,8 @@
 title: "About"
 permalink: /about/
 last_modified_at: 2019-07-30
+categories:
+  - Page
 ---
 
 ## About
