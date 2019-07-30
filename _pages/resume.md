@@ -6,4 +6,4 @@ categories:
   - Page
 ---
 
-View my resume/CV [here](../resume.pdf)
+View my resume/CV [here](../_pages/resume.pdf)
