@@ -3,7 +3,4 @@ title: "About"
 permalink: /about/
 ---
 
-To do!
-
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna. Praesent sit amet ligula id orci venenatis auctor. Phasellus porttitor, metus non tincidunt dapibus, orci pede pretium neque, sit amet adipiscing ipsum lectus et libero. Aenean bibendum. Curabitur mattis quam id urna. Vivamus dui. Donec nonummy lacinia lorem. Cras risus arcu, sodales ac, ultrices ac, mollis quis, justo. Sed a libero. Quisque risus erat, posuere at, tristique non, lacinia quis, eros.
+I currently work as a machine learning engineer at Partsimony, and a data science intern at Goodyear.  The main emphasis of this blog is to document and showcase my experiences with data science, and to share the struggles and accomplishments I experience on a day-to-day basis at work, and for fun (side projects!). I aim to, in the long term, work in sports analytics and also pursue my master's degree in a quantitative field. Thanks for checking out my blog, and feel free to check out other parts of my website to view my projects, resume, and more.
