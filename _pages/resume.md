@@ -1,7 +1,9 @@
 ---
-title: "Resume/CV"
+title: "Resume"
 permalink: /resume/
+last_modified_at: 2019-07-30
+categories:
+  - Page
 ---
 
-Put resume hyperlink here (Note to Self)
-
+View my resume/CV [here](../resume.pdf)
