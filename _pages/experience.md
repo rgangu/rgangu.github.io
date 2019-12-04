@@ -3,6 +3,8 @@ title: "Experience"
 permalink: /experience/
 ---
 
+Below is an overview of my experiences as well as tools/technologies I've used. For a more in-depth look, please visit my resume.
+
 _December 2019 - Present:_ **Founder** at **Ronu Labs**
 - working on some challenging problems to use artificial intelligence to improve society 
 
