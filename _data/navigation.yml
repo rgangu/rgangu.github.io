@@ -3,6 +3,14 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
-     url: /about/
+     url: /about
    - title: "Resume/CV"
-     url: /resume/
+     url: /resume
+   - title: "Experience"
+     url: /experience 
+   - title: "Projects"
+     url: /projects
+   - title: "Ronu"
+     url: https://ronulabs.c1.biz
+     
+  
