@@ -3,4 +3,4 @@ title: "Research"
 permalink: /research
 ---
 
-Posts here.
+Here are some papers I've written, as well as their current statuses in terms of publication.
