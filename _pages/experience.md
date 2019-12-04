@@ -3,8 +3,22 @@ title: "Experience"
 permalink: /experience/
 ---
 
-TO do !
+_December 2019 - Present:_ **Founder** at **Ronu Labs**
+- working on some challenging problems to use artificial intelligence to improve society 
 
+_January 2019 - Present:_ **Machine Learning Engineer** at **Partsimony**
+- recommender systems, AWS, regression, Docker pipelines
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna. Praesent sit amet ligula id orci venenatis auctor. Phasellus porttitor, metus non tincidunt dapibus, orci pede pretium neque, sit amet adipiscing ipsum lectus et libero. Aenean bibendum. Curabitur mattis quam id urna. Vivamus dui. Donec nonummy lacinia lorem. Cras risus arcu, sodales ac, ultrices ac, mollis quis, justo. Sed a libero. Quisque risus erat, posuere at, tristique non, lacinia quis, eros.
+_May 2019 - August 2019:_ **Data Science Intern** at **Goodyear**
+- Shiny Apps, data cleaning pipelines, data visualisation, time series analysis, deep learning
+
+_November 2017 - December 2018:_ **Machine Learning Engineer** at **Networkly**
+- facial recognition, spam filtering, Azure, chatbots
+
+_May 2018 - August 2018:_ **Data Science Intern** at **Allegion**
+- Flask, model management, Azure, Docker, price forecasting, speech to text
+
+_May 2017 - September 2017:_ **Machine Learning Intern** at **OrderIn**
+- recommender systems, driver optimization algorithms, SQL
+
 
