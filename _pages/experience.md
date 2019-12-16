@@ -20,6 +20,9 @@ _November 2017 - December 2018:_ **Machine Learning Engineer** at **Networkly**
 _May 2018 - August 2018:_ **Data Science Intern** at **Allegion**
 - Flask, model management, Azure, Docker, price forecasting, speech to text
 
+_March 2018 - August 2018:_ **Contract Software Developer** at **Gamesharkz**
+- Laravel, PHP, MVC development, web apps, Android, Java, mobile
+
 _January 2018 - May 2018:_ **Undergraduate Researcher** at **Penn State (Mahony Lab)**
 - transcription factor binding, TensorFlow, RNNs, sequencing
 
