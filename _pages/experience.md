@@ -20,6 +20,9 @@ _November 2017 - December 2018:_ **Machine Learning Engineer** at **Networkly**
 _May 2018 - August 2018:_ **Data Science Intern** at **Allegion**
 - Flask, model management, Azure, Docker, price forecasting, speech to text
 
+_January 2018 - May 2018:_ **Undergraduate Researcher** at **Penn State (Mahony Lab)**
+- transcription factor binding, TensorFlow, RNNs, sequencing
+
 _May 2017 - September 2017:_ **Machine Learning Intern** at **OrderIn**
 - recommender systems, driver optimization algorithms, SQL
 
