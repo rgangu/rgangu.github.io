@@ -11,6 +11,10 @@ _December 2019 - Present:_ **Founder** at **Ronu Labs**
 _January 2019 - Present:_ **Machine Learning Engineer** at **Partsimony**
 - recommender systems, AWS, regression, Docker pipelines
 
+
+_September 2019 - December 2019:_ **Data Analyst Intern** at **Penn State**
+- survey design, ad-hoc analyses, visualisation, cleaning pipelines, SPSS, R
+
 _May 2019 - August 2019:_ **Data Science Intern** at **Goodyear**
 - Shiny Apps, data cleaning pipelines, data visualisation, time series analysis, deep learning
 
