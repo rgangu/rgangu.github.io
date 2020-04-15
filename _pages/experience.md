@@ -5,11 +5,9 @@ permalink: /experience/
 
 Below is an overview of my experiences as well as tools/technologies I've used. For a more in-depth look, please visit my resume.
 
-_December 2019 - Present:_ **Founder** at **Ronu Labs**
-- working on some challenging problems to use artificial intelligence to improve society 
 
 _January 2019 - Present:_ **Machine Learning Engineer** at **Partsimony**
-- recommender systems, AWS, regression, Docker pipelines
+- recommender systems, AWS, classical ML, ETL pipelines
 
 
 _September 2019 - December 2019:_ **Data Analyst Intern** at **Penn State**
