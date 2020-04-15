@@ -6,14 +6,6 @@ last_modified_at: 2019-12-04
 
 Below is an overview of some interesting projects I've worked on - most are available on GitHub - and have their respective repository URLs attached. 
 
-**Private Repositories for Now**
-
-- **Dorothy** _(mental health web app)_ - uses computer vision and deep learning to create a conversationally intelligent bot that responds to users' feelings with context. Full web app version coming out in January 2020. Public-facing repo to come.
-
-- **Ronu** - simplifies analytics for all. Coming out as a web app in January 2020. 
-
-- **Translatir** - peer-to-peer decentralized translation platform
-
 **Public Repositories**
 
 - **JetBlue Sentiment Analysis** -  Unsupervised Aspect Extraction for aspect-based sentiment analysis, at YHack 2019. See repo [here](https://github.com/rgangu/unsupervised-aspect-extraction)
