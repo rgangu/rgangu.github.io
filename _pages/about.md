@@ -6,7 +6,7 @@ categories:
   - Page
 ---
 
- I currently work as a machine learning engineer at Partsimony.
+ I currently work as a data engineer at Axtria, and as a research engineer at PlantVillage. 
  
 The main emphasis of this blog is to document and showcase my experiences with data science, and to share the struggles and     accomplishments I experience on a day-to-day basis at work, and for fun (side projects!). 
     
