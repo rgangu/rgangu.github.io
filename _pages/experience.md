@@ -5,10 +5,11 @@ permalink: /experience/
 
 Below is an overview of my experiences as well as tools/technologies I've used. For a more in-depth look, please visit my resume.
 
+_January 2020 - Present:_ **Research Engineer** at **Penn State**
+- NLP, object detection, segmentation, AWS, ETL, APIs, web apps
 
 _January 2019 - Present:_ **Machine Learning Engineer** at **Partsimony**
 - recommender systems, AWS, classical ML, ETL pipelines
-
 
 _September 2019 - December 2019:_ **Data Analyst Intern** at **Penn State**
 - survey design, ad-hoc analyses, visualisation, cleaning pipelines, SPSS, R
