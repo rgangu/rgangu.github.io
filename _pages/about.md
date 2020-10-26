@@ -6,9 +6,9 @@ categories:
   - Page
 ---
 
- I currently work as a data engineer at Axtria, and as a research engineer at PlantVillage. 
+ I currently work as a data engineer.
  
-The main emphasis of this blog is to document and showcase my experiences with data science, and to share the struggles and     accomplishments I experience on a day-to-day basis at work, and for fun (side projects!). 
+The main emphasis of this blog is to document and showcase my experiences with data science, and to share the struggles and accomplishments I experience on a day-to-day basis at work, and for fun (side projects!). 
     
 I aim to, in the long term, work in sports analytics and also pursue my master's degree in a quantitative field. 
 
