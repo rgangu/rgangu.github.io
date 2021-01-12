@@ -8,7 +8,10 @@ Below is an overview of my experiences as well as tools/technologies I've used. 
 _January 2020 - Present:_ **Research Engineer** at **Penn State**
 - NLP, object detection, segmentation, AWS, ETL, APIs, web apps
 
-_January 2019 - Present:_ **Machine Learning Engineer** at **Partsimony**
+_June 2020 - January 2021_: **Data Consultant** at **Axtria**
+- EMR, Spark, Hadoop, MSSQL, Redshift, Hive, Airflow
+
+_January 2019 - January 2021:_ **Machine Learning Engineer** at **Partsimony**
 - recommender systems, AWS, classical ML, ETL pipelines
 
 _September 2019 - December 2019:_ **Data Analyst Intern** at **Penn State**
