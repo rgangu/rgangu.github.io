@@ -5,6 +5,7 @@ last_modified_at: 2019-12-04
 ---
 
 Below is an overview of some interesting projects I've worked on - most are available on GitHub - and have their respective repository URLs attached. 
+Most of these were during my schooling - haven't had much time since I've started full-time work, to do side-projects.
 
 **Public Repositories**
 
