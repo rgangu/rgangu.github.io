@@ -108,8 +108,8 @@ analytics:
 author:
   name: "Rohit Gangupantulu"
   avatar: "0.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Data Scientist with interests in NLP, deep learning, and ML productionalization"
-  location: "Philadelphia, PA"
+  bio: "Data Scientist with interests in NLP, statistical modeling, and vision"
+  location: "Washington, DC"
   email:
   links:
     - label: "Email"
