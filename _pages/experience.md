@@ -5,6 +5,8 @@ permalink: /experience/
 
 Below is an overview of my experiences as well as tools/technologies I've used. For a more in-depth look, please visit my resume.
 
+_January 2021 - Present:_ **Consultant** at **Deloitte**
+
 _January 2020 - Present:_ **Research Engineer** at **Penn State**
 - NLP, object detection, segmentation, AWS, ETL, APIs, web apps
 
